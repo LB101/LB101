@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laurence</h1>
+<h1 align="center">💻 Laurence</h1>
 <h3 align="center">A passionate Full Stack developer from London</h3>
 
 - 🌱 I’m currently working on **OSCP**
