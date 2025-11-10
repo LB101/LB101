@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **OSCP**
 
-- 📝 I have written articles on [Vulnerability detection](Vulnerability detection)
+- 📝 I have written articles on Vulnerability Detection
 
 - 💬 Ask me about **Cyber Security**
 
